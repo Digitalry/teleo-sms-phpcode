@@ -1,9 +1,9 @@
 # teleo-sms-phpcode 
 Integrate Teleo SMS API in php code to send SMS in India. 
+Visit www.teleosms.com for more help. 
 
 
 References: 
-
 
 For Curl space error (503), Check these examples: 
 
