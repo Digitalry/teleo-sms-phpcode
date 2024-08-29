@@ -1,6 +1,6 @@
 # teleo-sms-phpcode 
-Integrate Teleo SMS API in php code to send SMS in India. 
-Visit https://www.teleosms.com for more help. 
+Integrate Bulk SMS API in php code to send SMS in India. 
+Visit https://bulkvoicecall.com (OR) https://digitalry.com for more help. 
 
 
 References: 
