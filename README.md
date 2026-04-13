@@ -1,7 +1,7 @@
 # teleoe-sms-phpcode 
 Integrate Bulk SMS API in php code to send SMS in India. 
 Visit https://teleoe.com for sms account signup and more help. 
-
+( Powered by AXTES™ - Accelerated Technology Solutions. https://Axtes.com ) 
 
 References: 
 
